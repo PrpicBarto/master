@@ -1,0 +1,11 @@
+C:\Users\SOL12D3\source\repos\PrpicBartoComboBox\PrpicBartoComboBox\obj\Debug\PrpicBartoComboBox.csprojAssemblyReference.cache
+C:\Users\SOL12D3\source\repos\PrpicBartoComboBox\PrpicBartoComboBox\obj\Debug\PrpicBartoComboBox.Form1.resources
+C:\Users\SOL12D3\source\repos\PrpicBartoComboBox\PrpicBartoComboBox\obj\Debug\PrpicBartoComboBox.Properties.Resources.resources
+C:\Users\SOL12D3\source\repos\PrpicBartoComboBox\PrpicBartoComboBox\obj\Debug\PrpicBartoComboBox.csproj.GenerateResource.cache
+C:\Users\SOL12D3\source\repos\PrpicBartoComboBox\PrpicBartoComboBox\obj\Debug\PrpicBartoComboBox.csproj.CoreCompileInputs.cache
+C:\Users\SOL12D3\source\repos\PrpicBartoComboBox\PrpicBartoComboBox\bin\Debug\PrpicBartoComboBox.exe.config
+C:\Users\SOL12D3\source\repos\PrpicBartoComboBox\PrpicBartoComboBox\bin\Debug\PrpicBartoComboBox.exe
+C:\Users\SOL12D3\source\repos\PrpicBartoComboBox\PrpicBartoComboBox\bin\Debug\PrpicBartoComboBox.pdb
+C:\Users\SOL12D3\source\repos\PrpicBartoComboBox\PrpicBartoComboBox\obj\Debug\PrpicBartoComboBox.exe
+C:\Users\SOL12D3\source\repos\PrpicBartoComboBox\PrpicBartoComboBox\obj\Debug\PrpicBartoComboBox.pdb
+C:\Users\SOL12D3\source\repos\PrpicBartoComboBox\PrpicBartoComboBox\obj\Debug\PrpicBartoComboBox.oProgramu.resources
