@@ -1,0 +1,11 @@
+C:\Users\SOL12D3\source\repos\PrpicBartoRadioButton\PrpicBartoRadioButton\bin\Debug\PrpicBartoRadioButton.exe.config
+C:\Users\SOL12D3\source\repos\PrpicBartoRadioButton\PrpicBartoRadioButton\bin\Debug\PrpicBartoRadioButton.exe
+C:\Users\SOL12D3\source\repos\PrpicBartoRadioButton\PrpicBartoRadioButton\bin\Debug\PrpicBartoRadioButton.pdb
+C:\Users\SOL12D3\source\repos\PrpicBartoRadioButton\PrpicBartoRadioButton\obj\Debug\PrpicBartoRadioButton.Form1.resources
+C:\Users\SOL12D3\source\repos\PrpicBartoRadioButton\PrpicBartoRadioButton\obj\Debug\PrpicBartoRadioButton.Properties.Resources.resources
+C:\Users\SOL12D3\source\repos\PrpicBartoRadioButton\PrpicBartoRadioButton\obj\Debug\PrpicBartoRadioButton.csproj.GenerateResource.cache
+C:\Users\SOL12D3\source\repos\PrpicBartoRadioButton\PrpicBartoRadioButton\obj\Debug\PrpicBartoRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\SOL12D3\source\repos\PrpicBartoRadioButton\PrpicBartoRadioButton\obj\Debug\PrpicBartoRadioButton.exe
+C:\Users\SOL12D3\source\repos\PrpicBartoRadioButton\PrpicBartoRadioButton\obj\Debug\PrpicBartoRadioButton.pdb
+C:\Users\SOL12D3\source\repos\PrpicBartoRadioButton\PrpicBartoRadioButton\obj\Debug\PrpicBartoRadioButton.oProgramu.resources
+C:\Users\SOL12D3\source\repos\PrpicBartoRadioButton\PrpicBartoRadioButton\obj\Debug\PrpicBartoRadioButton.csprojAssemblyReference.cache

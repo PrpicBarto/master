@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrpicBartoRadioButton", "PrpicBartoRadioButton\PrpicBartoRadioButton.csproj", "{CC38AE42-1680-40F0-9C92-F660B706C29D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC38AE42-1680-40F0-9C92-F660B706C29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC38AE42-1680-40F0-9C92-F660B706C29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC38AE42-1680-40F0-9C92-F660B706C29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC38AE42-1680-40F0-9C92-F660B706C29D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C73F8AC-00A1-4929-819F-A97BBC40E906}
+	EndGlobalSection
+EndGlobal
